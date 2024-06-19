@@ -15,4 +15,4 @@ We conduct experiments on both the reward modeling task and the preference optim
 
 
 ## Acknowledgement
-Our code is mainly based on the original [weak-to-strong](https://github.com/openai/weak-to-strong) repo provided by the Superlaignment team. We greatly thanks for their open-sourcing! Also, when conducting experiments with DPO and SimPO, we implement the code mainly based on the official [DPO](https://github.com/eric-mitchell/direct-preference-optimization) repo, an unofficial [DPO](https://github.com/okarthikb/DPO) repo, and the official [SimPO](https://github.com/princeton-nlp/SimPO) repo. Thanks for their open-sourcing!
+Our code is mainly based on the original [weak-to-strong](https://github.com/openai/weak-to-strong) repo provided by the Superlaignment team. We greatly appreaciate their open-sourcing! Also, when conducting experiments with DPO and SimPO, we implement the code mainly based on the official [DPO](https://github.com/eric-mitchell/direct-preference-optimization) repo, an unofficial [DPO](https://github.com/okarthikb/DPO) repo, and the official [SimPO](https://github.com/princeton-nlp/SimPO) repo. Thanks for their open-sourcing!
