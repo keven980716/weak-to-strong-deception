@@ -16,7 +16,7 @@ As [Mistral](https://huggingface.co/mistralai/Mistral-7B-v0.1) is a very recent 
 ## Experiments on The Reward Modeling Task
 The corresponding commands in ```run_reward_model.sh``` are used to conduct the experiments on the reward modeling task. 
 
-## Experiments on The Preference Alignment Scenario
+## Experiments in The Preference Alignment Scenario
 The corresponding commands in ```run_simpo.sh``` and ```run_dpo.sh``` are used to conduct the experiments in the preference alignment scenario. 
 
 #### Support FSDP
